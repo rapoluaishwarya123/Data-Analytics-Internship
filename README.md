@@ -20,27 +20,7 @@ Built a dashboard to analyze sales and revenue data.
 - Pandas
 - Matplotlib
 - Google Colab
-
----
-
-## 👥 Task 2: Customer Segmentation Project
-
-### Description:
-Segmented customers based on income and spending behavior using clustering techniques.
-
-### Features:
-- Applied KMeans clustering algorithm
-- Grouped customers into segments
-- Visualized customer clusters
-- Generated business insights
-
-### Tools Used:
-- Python
-- Pandas
-- Scikit-learn
-- Matplotlib
-- Google Colab
-
+  
 ---
 
 ## 📌 Conclusion:
